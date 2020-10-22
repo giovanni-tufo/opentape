@@ -17,5 +17,5 @@ services:
       - "traefik.frontend.protocol=https"
       - "traefik.port=80"
 networks:
-  traefix:
+  traefik:
     external: true
