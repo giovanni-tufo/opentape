@@ -3,3 +3,4 @@
 .htpasswd
 settings/*.array
 settings/*.php
+/.idea
